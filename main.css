@@ -12,7 +12,7 @@ body{
   align-items: center;
   display: flex;
   height: 100vh;
-  background: url(/Imges/Untitled\ design\ \(1\).png) no-repeat center / cover;
+  background: url(Imges/Back.png) no-repeat center / cover;
   padding: 50px 5%;
   font-family: "DM Sans", sans-serif;
   color: #fff; /* Color all fonts in the page */  
